@@ -14,4 +14,4 @@ Thanks a ton to Edinburgh School of AI for the great tutorials so far!
 
 ## Screenshot
 
-[!Visualisation of our weather data](https://i.imgur.com/bBYHWYp.png)
+[!Visualisation of our weather data] (https://i.imgur.com/bBYHWYp.png)
